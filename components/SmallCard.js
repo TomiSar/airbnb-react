@@ -8,7 +8,7 @@ function SmallCard({ img, location, distance }) {
     >
       {/* Left */}
       <div className='relative h-16 w-16'>
-        <Image className='rounded-lg' src={img} layout='fill' />
+        <Image className='rounded-lg' src={img} alt='smallcard' layout='fill' />
       </div>
 
       {/* Right */}
