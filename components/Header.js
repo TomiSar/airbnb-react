@@ -13,6 +13,7 @@ function Header() {
       <div className='relative flex items-center h-10 cursor-pointer my-auto'>
         <Image
           src='https://static.dezeen.com/uploads/2014/07/Airbnb-rebrand-by-DesignStudio_dezeen_468_8.jpg'
+          alt='header'
           layout='fill'
           objectFit='contain'
           objectPosition='left'
