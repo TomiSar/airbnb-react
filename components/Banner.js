@@ -5,6 +5,7 @@ function Banner() {
     <div className='relative h-[300px] sm:h-[400px] lg:h-[500px] xl:h-[600px] 2xl:h-[700px]'>
       <Image
         src='https://news.airbnb.com/wp-content/uploads/sites/4/2020/04/Airbnb_Ireland_Lakeside_House_Featured.jpg?w=3000'
+        alt='banner'
         layout='fill'
         objectFit='cover'
       />
